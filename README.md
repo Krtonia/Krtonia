@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Excraze
--  I’m currently working on Android 11 & 12 Device for Poco f1
+- 🛡️ I’m currently working on Android 11 & 12 Device for Poco F1
 - 🌱 I’m currently learning python and Kotlin 
 - 📫 reach me on telegram @Excraze
 
